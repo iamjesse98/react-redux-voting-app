@@ -1,0 +1,7 @@
+.center-text {
+  text-align: center;
+}
+
+.left-move {
+  transform: translateX(-3%);
+}
